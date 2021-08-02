@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">Todo</string>
+    <string name="note_description">Note description</string>
+    <string name="note_title">Note title</string>
+    <string name="note_updated">Note updated</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="edit">Edit</string>
+    <string name="list">List</string>
+    <string name="delete_todo_question">Delete todo?</string>
+    <string name="delete">Delete</string>
+    <string name="delete_todo">Delete</string>
 </resources>
